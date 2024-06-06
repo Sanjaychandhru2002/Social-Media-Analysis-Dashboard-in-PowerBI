@@ -61,3 +61,4 @@ For questions or feedback, please contact [your email].
 ---
 
 Feel free to customize this template with specific details about your project, including screenshots or links to a live demo if available.
+<img width="767" alt="Page 3" src="https://github.com/Sanjaychandhru2002/Social-Media-Analysis-Dashboard-in-PowerBI/assets/122144682/440efc28-72ef-44b9-a7e1-563ef52b05db">
