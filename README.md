@@ -1,6 +1,8 @@
-Sure! Here’s a README file for your GitHub project:
+Demo Images
+<img width="838" alt="Page 1" src="https://github.com/Sanjaychandhru2002/Social-Media-Analysis-Dashboard-in-PowerBI/assets/122144682/f6771ef3-f08d-43d7-986f-d3d42f0f6c87">
+<img width="767" alt="Page 3" src="https://github.com/Sanjaychandhru2002/Social-Media-Analysis-Dashboard-in-PowerBI/assets/122144682/440efc28-72ef-44b9-a7e1-563ef52b05db">
+<img width="828" alt="Page 2" src="https://github.com/Sanjaychandhru2002/Social-Media-Analysis-Dashboard-in-PowerBI/assets/122144682/97ed505b-2cad-4620-9fbe-2cd2db122c9a">
 
----
 
 # Social Media Analysis Dashboard with Microsoft Power BI
 
@@ -56,9 +58,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or feedback, please contact [your email].
+For questions or feedback, please contact [sanjaychandhru374@gmail.com].
 
----
 
-Feel free to customize this template with specific details about your project, including screenshots or links to a live demo if available.
-<img width="767" alt="Page 3" src="https://github.com/Sanjaychandhru2002/Social-Media-Analysis-Dashboard-in-PowerBI/assets/122144682/440efc28-72ef-44b9-a7e1-563ef52b05db">
